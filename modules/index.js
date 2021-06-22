@@ -80,5 +80,3 @@ function ratioCalc(event){
     }
         
 }
-
-// originalWidth, originalHeight, newValue, valueType
